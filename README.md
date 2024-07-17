@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Anandhu</h2>
+<h3 align="center">Hi 👋, I'm Anandhu</h3>
 <!--
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anandhua&label=Profile%20views&color=0e75b6&style=flat" alt="anandhua" />

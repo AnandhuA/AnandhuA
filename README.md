@@ -1,4 +1,19 @@
 <h3 align="center">Hi 👋, I'm Anandhu</h3>
+
+- 👨‍💻 All of my projects are available at my [portfolio](https://portfolio-96fc5.web.app/home)
+
+- 💬 Ask me about **Flutter & Android**
+
+- 📫 How to reach me **anandhu1407@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/anandhu14_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Anandhu" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://in.linkedin.com/in/anandhuav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anandhu" height="30" width="40" /></a>
+</p>
+
 <!--
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anandhua&label=Profile%20views&color=0e75b6&style=flat" alt="anandhua" />
